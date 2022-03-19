@@ -1,0 +1,67 @@
+body {
+  color: #FBF3E4;
+  font-family: 'Roboto', sans-serif;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+  background-color: #105652;
+}
+
+.navbar {
+  margin-bottom: 4%;
+}
+
+.navbar-brand {
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 500;
+  font-size: 1.5rem;
+}
+
+.brand-image {
+  width: 15%;
+}
+
+.heading {
+  font-size: 1.7rem;
+  margin-bottom: 4%;
+  width: 90%;
+}
+
+.body-text {
+  line-height: 2;
+  margin-bottom: 6%;
+  width: 90%;
+  font-weight: 100;
+}
+
+.social-icon {
+  margin-right: 3%;
+  color: #FBF3E4;
+}
+
+.social-icon:hover {
+  color: #D9CE3F;
+}
+
+.review-image {
+  width: 100%;
+  height: 174.4px;
+}
+
+.section-image {
+  width: 40%;
+  height: auto;
+  border-radius: 3rem;
+  margin-bottom: 4%;
+}
+
+.card {
+  background-color: #DFD8CA;
+  color: #105652;
+  box-shadow: 0 5px 20px grey;
+}
+
+/* font-family: 'Merriweather', serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Ubuntu', sans-serif; */
